@@ -11,9 +11,57 @@ Explore dungeons, fight enemies in turn-based combat, collect equipment, and com
 
 ## Gameplay
 
+## Screenshots
+
+### Main Menu
+
+<p align="center">
+  <img src="assets/mainmenu.png" alt="Death Never Ends Main Menu" width="800">
+</p>
+
+### Gameplay
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Turn-Based Combat</strong><br><br>
+      <img src="assets/fightScreen.png" alt="Combat Screen" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>Dungeon Exploration</strong><br><br>
+      <img src="assets/walkScene.png" alt="Dungeon Exploration" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Dungeon Map</strong><br><br>
+      <img src="assets/dungeons.png" alt="Dungeon Map" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>World Map</strong><br><br>
+      <img src="assets/worldmap.png" alt="World Map" width="100%">
+    </td>
+  </tr>
+</table>
+
+### Character Progression
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Elemental Augments</strong><br><br>
+      <img src="assets/augments.png" alt="Augment Selection" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>Inventory & Equipment</strong><br><br>
+      <img src="assets/invnetory.png" alt="Inventory and Equipment" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ## Key Features
-
+- Over 80+ different augments!
 - Turn-based combat with different attack types and ultimate abilities
 - Four elemental themes: Ignis, Toxic, Thunder, and Frost
 - Augments with five rarity tiers, from Common to Legendary
