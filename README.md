@@ -9,8 +9,6 @@ Explore dungeons, fight enemies in turn-based combat, collect equipment, and com
 
 **[Play the Game on itch.io](https://troemanes.itch.io/death-never-ends)**
 
-## Gameplay
-
 ## Screenshots
 
 ### Main Menu
